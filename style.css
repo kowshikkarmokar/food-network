@@ -1,0 +1,50 @@
+.advice{
+    color: orange;
+}
+.fast-part{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    font-family:'Poppins',
+        sans-serif; ;
+        font-size: x-large;
+        margin-left: 20px;
+        margin-right: 10px;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.fast-banner{
+    padding-right: 10px;
+}
+.link-button{
+    text-decoration: none;
+    color: chartreuse;
+    background-color: orange;
+    background-image: -moz-linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+.second-part{
+    color: gray;
+}
+.second-banner{
+    background-image: url(images/shapes/7.png);
+}
+.third-banner{
+    text-align: center;
+    color: gray;
+}
+.food{
+    display: flex;
+}
+.my-title{
+    width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 20px;
+        border-radius: 20px;
+        box-shadow: 10px 10px 40px goldenrod;
+}
